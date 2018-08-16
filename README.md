@@ -1,2 +1,2 @@
-# Virlier.github.io/
+# Virlier.github.io
 my personal web
